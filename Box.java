@@ -1,5 +1,6 @@
 class Box{
 {
+    // this code basically use for adding of array
 double width;
 double height;
 double depth;

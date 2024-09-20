@@ -1,6 +1,7 @@
 import java.util.*;
 
 public class Floyd_triangle{
+    // this code basically use for adding of array
 public static void main(String[] args){
 
 int n=5;
